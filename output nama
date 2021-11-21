@@ -1,0 +1,8 @@
+myvar = "Ni Made Putri Widiantari"
+myvar1 = "Bali, Indonesia"
+myvar2 = "STIKI Indonesia"
+
+
+print(myvar)
+print(myvar1)
+print(myvar2)
