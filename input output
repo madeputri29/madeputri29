@@ -1,0 +1,9 @@
+#Input
+nama = input("Enter nama : ")
+alamat = input("Enter alamat : ")
+umur = input("Enter umur : ")
+
+#Hasil Output
+print("Nama = " + nama)
+print("Alamat = " + alamat)
+print("Umur = " + umur)
